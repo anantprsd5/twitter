@@ -4,7 +4,7 @@ module Twitter
 
     # @return [Integer]
     def major
-      7
+      8
     end
 
     # @return [Integer]
